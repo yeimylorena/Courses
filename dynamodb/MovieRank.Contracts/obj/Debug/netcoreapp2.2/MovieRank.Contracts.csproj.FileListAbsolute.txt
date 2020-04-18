@@ -1,0 +1,9 @@
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\bin\Debug\netcoreapp2.2\MovieRank.Contracts.deps.json
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\bin\Debug\netcoreapp2.2\MovieRank.Contracts.dll
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\bin\Debug\netcoreapp2.2\MovieRank.Contracts.pdb
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\obj\Debug\netcoreapp2.2\MovieRank.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\obj\Debug\netcoreapp2.2\MovieRank.Contracts.AssemblyInfoInputs.cache
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\obj\Debug\netcoreapp2.2\MovieRank.Contracts.AssemblyInfo.cs
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\obj\Debug\netcoreapp2.2\MovieRank.Contracts.dll
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\obj\Debug\netcoreapp2.2\MovieRank.Contracts.pdb
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Contracts\obj\Debug\netcoreapp2.2\MovieRank.Contracts.csprojAssemblyReference.cache

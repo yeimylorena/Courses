@@ -1,0 +1,12 @@
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\bin\Debug\netcoreapp2.2\MovieRank.Libs.deps.json
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\bin\Debug\netcoreapp2.2\MovieRank.Libs.dll
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\bin\Debug\netcoreapp2.2\MovieRank.Libs.pdb
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\obj\Debug\netcoreapp2.2\MovieRank.Libs.csprojAssemblyReference.cache
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\obj\Debug\netcoreapp2.2\MovieRank.Libs.csproj.CoreCompileInputs.cache
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\obj\Debug\netcoreapp2.2\MovieRank.Libs.AssemblyInfoInputs.cache
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\obj\Debug\netcoreapp2.2\MovieRank.Libs.AssemblyInfo.cs
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\obj\Debug\netcoreapp2.2\MovieRank.Libs.dll
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\obj\Debug\netcoreapp2.2\MovieRank.Libs.pdb
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\bin\Debug\netcoreapp2.2\MovieRank.Contracts.dll
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\bin\Debug\netcoreapp2.2\MovieRank.Contracts.pdb
+C:\Users\yeiescob\source\repos\MovieRank\MovieRank.Libs\obj\Debug\netcoreapp2.2\MovieRank.Libs.csproj.CopyComplete
