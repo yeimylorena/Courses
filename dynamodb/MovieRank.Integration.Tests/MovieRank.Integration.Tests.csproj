@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Docker.DotNet" Version="3.125.2" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.5" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.6" />
     <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="2.1.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.8.0" />
     <PackageReference Include="xunit" Version="2.4.0" />
